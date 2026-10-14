@@ -34,7 +34,7 @@ When you share your debt-free date, the picture is made on your phone and goes o
 
 When you export your data, the files are made on your phone and go only where you send them.
 
-On Android, the share sheet keeps its own copy of what you send until it is next used. Freeborn removes that copy the next time it opens, and when you erase everything.
+On Android, the share sheet keeps its own copy of what you send until it is next used. Freeborn removes that copy the next time it starts afresh, and when you erase everything.
 
 ## What Freeborn does not do
 
